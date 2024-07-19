@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afrimann
-- 👀 I’m interested in learning more on programming and web development
-- 🌱 I’m currently learning web development/software engineering
+- 👀 I believe that excellence and resilience is a great virtue
+- 🌱 I’m a Frontend Developer
 - 💞️ I’m looking to collaborate on projects and bootcamps
 
 
